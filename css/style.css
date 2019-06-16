@@ -40,9 +40,17 @@ h4.amiable {
   box-shadow: -1px 1px #c6bc2b, -2px 2px #c6bc2b, -3px 3px #c6bc2b, -4px 4px #c6bc2b, -5px 5px #c6bc2b;
 }
 
+h4.indifferent {
+    background-image: linear-gradient(to bottom, aqua, blue);
+}
+
 .dubious {
   background-color: #dd4444;
   box-shadow: -1px 1px #8c1f0c, -2px 2px #8c1f0c, -3px 3px #8c1f0c, -4px 4px #8c1f0c, -5px 5px #8c1f0c;
+}
+
+h4.dubious {
+    background-image: linear-gradient(to bottom, aqua, #8c1f0c);
 }
 
 .column {
