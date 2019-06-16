@@ -31,6 +31,9 @@ h4 {
   background-size: cover;
 
 }
+h4.amiable {
+    background-image: linear-gradient(to bottom, aqua, blue);
+}
 
 .indifferent {
   background-color: #dddd22;
